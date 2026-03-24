@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+*.log
